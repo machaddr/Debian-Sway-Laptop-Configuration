@@ -1,7 +1,3 @@
-Here is a draft for the README of your repository:
-
----
-
 # Debian Sway Laptop Configuration
 
 ![Screenshot of Sway Configuration](./Images/sway_debian.png)
