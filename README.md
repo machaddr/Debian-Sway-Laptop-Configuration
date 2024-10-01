@@ -64,7 +64,7 @@ sudo apt install -y \
   zoom \
   ardour \
   virtualbox \
-  nm-connection-editor
+  network-manager-gnome
 ```
 
 These packages will provide you with a more complete desktop environment, including a file manager, terminal emulator, and additional system utilities.
