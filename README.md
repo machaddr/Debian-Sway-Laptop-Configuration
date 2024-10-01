@@ -32,27 +32,43 @@ Before proceeding with the installation, install these packages:
 sudo apt update && sudo apt install -y \
   sway* \
   wayland* \
+  light \
+  libnotify-bin \
   grim \
   slurp \
-  jq \
-  git \
-  light \
   wofi \
-  rofi \
-  network-manager \
-  network-manager-gnome \
-  pulseaudio \
-  pavucontrol \
+  pulseaudio-utils \
   pipewire \
+  procps \
+  lm-sensors \
+  ifstat \
+  wireless-tools \
+  upower \
+  net-tools
 ```
 
 ## Additional Packages
 For a more comprehensive setup, consider installing these additional packages:
 ```bash
 sudo apt install -y \
-  firefox-esr \
-  htop \
-  neofetch
+  terminator \
+  nemo \
+  subl \
+  code \
+  thunderbird \
+  polari \
+  firefox \
+  libreoffice \
+  gimp \
+  blender \
+  eom \
+  atril \
+  spotify \
+  vlc \
+  zoom \
+  ardour \
+  virtualbox \
+  nm-connection-editor
 ```
 
 These packages will provide you with a more complete desktop environment, including a file manager, terminal emulator, and additional system utilities.
